@@ -1,5 +1,5 @@
 # ConsoleAddonLibrary (v 1.0)
-Console Addition Library is a library that expands your capabilities in writing beautiful console commands with clear, concise and easily manageable code.
+Console Addition Library is expands your capabilities in writing beautiful console commands with clear, concise and easily manageable code.
 
 **ConsoleLogs** class contains methods that allow you to: 
   - Output messages of a certain color to the console.
